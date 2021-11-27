@@ -4,3 +4,4 @@ users/audiovideodisco.json
 
 # Weird issue...
 package-lock.json
+users/*
